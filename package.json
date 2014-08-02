@@ -1,0 +1,25 @@
+{
+  "name": "component-markdown-js",
+  "description": "Markdown-js component for frontend package managers.",
+  "version": "0.5.0",
+  "homepage": "https://github.com/k33g/component-markdown-js",
+  "scripts": {
+    "build": "npm install && grunt"
+  },
+  "author": {
+    "name": "K33G_ORG",
+    "email": "ph.charriere@gmail.com",
+    "url": "https://github.com/k33g"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/k33g/component-markdown-js.git"
+  },
+  "devDependencies": {
+    "markdown": "^0.5.0",
+    "grunt": "~0.4.2",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-uglify": "~0.3.2",
+    "grunt-cli": "^0.1.13"
+  }
+}
